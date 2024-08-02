@@ -39,13 +39,9 @@ When users want to delete a task, the deletion process is confirmed, and the tas
 ✳ Personal Goals: Ideal for tracking short and long-term goals.
 
 📍 This application allows easy management of to-dos on mobile devices using React Native and ensures data persistence with AsyncStorage. It is an ideal tool for managing all kinds of tasks and to-do lists!
-
-
 ### native_asyncStorage
 
 ![](./assest/asyncStorage.gif)
-
-
 
 ## Asyncstorage Kurulum
 

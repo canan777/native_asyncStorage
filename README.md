@@ -1,4 +1,4 @@
-# ✅ native_asyncStorage
+# native_asyncStorage
 
 ## 📝 React Native Todo Application
 This is a simple and effective React Native Todo application that uses AsyncStorage to store data permanently. This app allows users to manage their to-do list. Users can add new tasks, update existing tasks, and delete completed tasks. The app saves the todos on the device, preventing data loss.
